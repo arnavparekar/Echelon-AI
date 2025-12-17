@@ -1,0 +1,18 @@
+{
+  "name": "ey-project",
+  "version": "1.0.0",
+  "description": "Production-grade, multi-agent LangGraph workflow with an LSTM anomaly detector for automotive aftersales. Includes a FastAPI backend serving real vehicle insights from the provided Excel telemetry dataset and a Next.js + Tailwind (EY black/yellow theme) frontend for monitoring, workflow visualization, and analytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-cytoscapejs": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react-cytoscapejs": "^1.2.6"
+  }
+}
