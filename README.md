@@ -19,7 +19,7 @@
 - [Enterprise Considerations](#-enterprise-considerations)
 - [Impact Metrics](#-impact-metrics)
 - [Tech Stack](#-tech-stack)
-- [About Us](#-about-us)
+- [About Us](#about-us)
 
 ---
 
@@ -173,7 +173,7 @@ package.json
 requirements.txt
 ```
 
-## 🔁 **System Architecture & Workflow**
+## 🔁 System Architecture & Workflow
 
 ## **How It Works**
 
@@ -245,25 +245,25 @@ requirements.txt
 ---
 
 
-## 🏗 **Architecture Diagram**
+## 🏗 Architecture Diagram
 <img width="668" height="449" alt="image" src="https://github.com/user-attachments/assets/e413bac3-f368-4405-be51-9a788136ea92" />
 
 
 ---
 
-## 🔄 **Flow Chart**
+## 🔄 Flow Chart
 <img width="872" height="430" alt="image" src="https://github.com/user-attachments/assets/4146d364-a27a-4b45-ae77-ec1bd1aefadd" />
 
 ---
 
-## 🖥 **Screenshots**
+## 🖥 Screenshots
 <img width="736" height="343" alt="image" src="https://github.com/user-attachments/assets/4da9709c-f75e-499d-ac36-00e98f618837" />
 
 <img width="736" height="343" alt="unamed" src="https://github.com/user-attachments/assets/a9d3986b-7008-4e41-9591-05b27e663a0b" />
 
 ---
 
-## 🚀 **Getting Started**
+## 🚀 Getting Started
 
 ## **Backend Setup**
 - `pip install -r requirements.txt`
@@ -281,7 +281,7 @@ requirements.txt
 
 ---
 
-## 🔌 **Backend APIs**
+## 🔌 Backend APIs
 - **GET /** — Health check
 - **GET /api/vehicles** — Workflow results for all vehicles
 - **GET /api/vehicles/{vehicle_id}** — Single vehicle workflow
@@ -339,7 +339,7 @@ Designed to give **CXOs, aftersales heads, and risk teams** a single, trusted co
 
 ---
 
-## 🧠 **Tech Stack**
+## 🧠 Tech Stack
 | Layer | Technology |
 |------|------------|
 | Backend APIs | **FastAPI** |
@@ -356,7 +356,7 @@ Designed to give **CXOs, aftersales heads, and risk teams** a single, trusted co
 
 ## 👋 **Hi, We are the makers of Echelon-AI!**
 
-## **About Us**
+## About Us
 - Meet the creators behind **Echelon-AI — Automotive Aftersales Predictive Maintenance**
 - **Aditi A, Aditi B, Arnav, and Nikhil**
 
@@ -371,5 +371,5 @@ Our goal is to move beyond **reactive workflows** and enable **proactive, explai
 
 ---
 
-## 💯 **Happy Coding**
+## 💯 Happy Coding
 **Made with love ❤️**
