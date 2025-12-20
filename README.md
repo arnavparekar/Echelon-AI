@@ -268,14 +268,14 @@ requirements.txt
 ## **Backend Setup**
 - `pip install -r requirements.txt`
 - `python api_server.py`
-- Runs at: **http://localhost:8000**
+- Runs at: `http://localhost:8000`
 - Requires **AgenticAI_Final_Format_Dataset.xlsx** in project root
 
 ## **Frontend Setup**
 - `cd frontend`
 - `npm install`
 - `npm run dev`
-- Runs at: **http://localhost:3000**
+- Runs at: `http://localhost:3000`
 - Uses **Next.js API routes** to proxy requests to FastAPI
 - Set **API_BASE_URL** if backend URL differs
 
