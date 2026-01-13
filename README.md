@@ -1,4 +1,4 @@
-# 🟡 EY Agentic AI — Automotive Aftersales Predictive Intelligence Platform
+# 🟡 Echelon AI — Automotive Aftersales Predictive Intelligence Platform
 
 ---
 
